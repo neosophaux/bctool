@@ -1,5 +1,5 @@
 # BCTool
-An unfinished tool that will sprinkle a file's data across GameGuardian's smali code and rebuild it at runtime.
+An unfinished tool that will sprinkle a file's data across GameGuardian's smali code and rebuild it at runtime. Contains a full fledged smali parser.
 
 This is an old project of mine i was working on for a customer during early 2020. The goal of it was to protect their lua scripts made for GameGuardian that people would leak to unpaid users. It is a very clever tool with tons of potential and i might work on it again some day.
 
